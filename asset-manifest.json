@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.228c0d56.css",
+    "main.js": "/static/js/main.f171f2ef.js",
+    "static/js/453.825386d9.chunk.js": "/static/js/453.825386d9.chunk.js",
+    "static/media/pelicula_foto.jpg": "/static/media/pelicula_foto.0cc14b3520535b2953c0.jpg",
+    "static/media/gato_foto.png": "/static/media/gato_foto.a9d36f91fe7c2cc654dd.png",
+    "index.html": "/index.html",
+    "main.228c0d56.css.map": "/static/css/main.228c0d56.css.map",
+    "main.f171f2ef.js.map": "/static/js/main.f171f2ef.js.map",
+    "453.825386d9.chunk.js.map": "/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228c0d56.css",
+    "static/js/main.f171f2ef.js"
+  ]
+}
